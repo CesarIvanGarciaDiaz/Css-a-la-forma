@@ -1,0 +1,99 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+  height: 650px;
+  background-color: #F0EBEB;
+  border-radius: 5px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+
+a {
+  background-color: #999;
+  color: white;
+  display: block;
+  width: 182px;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px;
+}
+
+
+.main-title {
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  top: 600px;
+  padding: 20px 0 0 20px;
+}
+/*---------------------*/
+input {
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 1.2em;
+  border:none;
+}
+#registration {
+  margin: 0 auto;
+  width: 700px;
+  height: 410px;
+  margin-top: 20px;
+  border-radius: 6px;
+  background-color:#C0B7B7;
+  padding-left: 13px;
+}
+
+.nombre {
+  width: 280px;
+  margin: 25px;
+  color:#7A7070;
+}
+
+textarea {
+  border: none;
+  margin-top: 5px;
+  margin-left: 25px;
+  width: 633px;
+  font-size: 20px;
+  border-radius: 6px;
+  color:#7A7070;
+}
+
+.tel{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 625px;
+  color:#7A7070;
+}
+
+.enviar{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 625px;
+  background-color: #2b90d9;
+  padding: 5px;
+  font-size: 1.3em;
+  text-align: center;
+  color: white;
+  border-radius: 6px;
+}
